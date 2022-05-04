@@ -4,5 +4,7 @@ import NFTCard from "./NFTCard";
 
 
 export {
-    FocusedStatusBar, HomeHeader, NFTCard
+    FocusedStatusBar, 
+    HomeHeader, 
+    NFTCard
 }
