@@ -2,7 +2,7 @@ import { Text } from "react-native"
 
 const Home = () => {
   return (
-    <Text>Home</Text>
+    <Text>WTF Asdfasd</Text>
   )
 }
 
