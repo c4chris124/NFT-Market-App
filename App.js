@@ -17,8 +17,8 @@ import Details from "./screens/Details";
   return (
     <NavigationContainer theme={theme}>
       <Stack.Navigator screenOptions={{headerShown: false}} initialRouteName="Home">
-        <Stack.Navigator.Screen name="Home" component={Home}/>
-        <Stack.Navigator.Screen name="Details" component={Details}/>
+        <Stack.Screen name="Home" component={Home}/>
+        <Stack.Screen name="Details" component={Details}/>
       </Stack.Navigator>
     </NavigationContainer>
   );
