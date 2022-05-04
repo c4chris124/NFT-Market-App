@@ -43,3 +43,4 @@ const NFTCard = ({ data }) => {
 };
 
 export default NFTCard;
+//1:10
